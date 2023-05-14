@@ -3,22 +3,29 @@ import React from "react";
 const experienceContent = [
   {
     year: "   2018 - Present",
-    position: " Web Developer",
-    compnayName: "Envato",
+    position: "Creative Director",
+    compnayName: "Bucksense",
     details: `  Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore
         adipisicing elit`,
   },
   {
     year: "2013 - 2018",
-    position: " UI/UX Designer",
-    compnayName: "Themeforest",
+    position: " Creative Director",
+    compnayName: "Acotel Interactive",
     details: `Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol
         elit, tempor incididunt`,
   },
   {
-    year: "2005 - 2013",
-    position: "Consultant",
-    compnayName: "Videohive",
+    year: "2007 - 2013",
+    position: "Creative Director",
+    compnayName: "Flycell",
+    details: `Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur
+        elit, sed do eiusmod tempor duntt`,
+  },
+  {
+    year: "2001 - 2007",
+    position: " Web Designer",
+    compnayName: "Acotel Group",
     details: `Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur
         elit, sed do eiusmod tempor duntt`,
   },
