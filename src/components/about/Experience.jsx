@@ -2,29 +2,29 @@ import React from "react";
 
 const experienceContent = [
   {
-    year: "   2018 - Present",
+    year: "   2020 - Present",
     position: "Creative Director",
     compnayName: "Bucksense",
     details: `  Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore
         adipisicing elit`,
   },
   {
-    year: "2013 - 2018",
-    position: " Creative Director",
+    year: "2016 - 2020",
+    position: " Senior art director",
     compnayName: "Acotel Interactive",
     details: `Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol
         elit, tempor incididunt`,
   },
   {
     year: "2007 - 2013",
-    position: "Creative Director",
+    position: "Senior Graphic Designer",
     compnayName: "Flycell",
     details: `Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur
         elit, sed do eiusmod tempor duntt`,
   },
   {
     year: "2001 - 2007",
-    position: " Web Designer",
+    position: "Senior Graphic Designer",
     compnayName: "Acotel Group",
     details: `Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur
         elit, sed do eiusmod tempor duntt`,

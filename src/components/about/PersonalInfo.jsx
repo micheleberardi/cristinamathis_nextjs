@@ -10,7 +10,7 @@ const personalInfoContent = [
   { meta: "phone", metaInfo: "+1646913714", hasColor: "" },
   { meta: "Email", metaInfo: "cristinamathis@gmail.com", hasColor: "" },
   { meta: "Skype", metaInfo: "cristinamathis", hasColor: "" },
-  { meta: "langages", metaInfo: "Italian,French, English", hasColor: "" },
+  { meta: "langages", metaInfo: "Fluent in English, Italian and French.", hasColor: "" },
 ];
 
 const PersonalInfo = () => {

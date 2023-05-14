@@ -10,10 +10,8 @@ const heroContent = {
   heroMobileImage: heroImgMobile,
   heroTitleName: "cristina mathis",
   heroDesignation: "Creative Director",
-  heroDescriptions: `I'm a Italian based web designer & front‑end developer focused on
-  crafting clean & user‑friendly experiences, I am passionate about
-  building excellent software that improves the lives of those
-  around me.`,
+  heroDescriptions: `Creative Director, based in New York.
+  I thrive in creative environments, enjoy working on teams that are passionate about solving problems. I have a positive attitude, high motivation and an obsession for details and typography.`,
   heroBtn: "more about me",
 };
 
