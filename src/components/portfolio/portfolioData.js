@@ -18,16 +18,16 @@ const PortfolioData = [
     modalDetails: [
       {
         project: "Website",
-        client: "Envato",
+        client: "Crystal Cruise",
         language: "HTML, CSS, Javascript",
-        preview: "www.envato.com",
-        link: "https://www.envato.com/",
+        preview: "Crystal Cruise",
+        link: "https://crystalcruises.com/",
       },
     ],
   },
   {
     id: 2,
-    type: "youtube project",
+    type: "Website",
     image: Image2,
     tag: ["video"],
     delayAnimation: "100",
