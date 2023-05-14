@@ -1,11 +1,11 @@
 import React from "react";
 import Wrapper from "../layout/wrapper";
-import homedark from "./home-dark";
+import HomeDark from "./home-dark";
 
 const MainRoot = () => {
   return (
     <Wrapper>
-      <home-dark />
+      <HomeDark />
     </Wrapper>
   );
 };
